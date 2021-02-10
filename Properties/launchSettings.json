@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exc3": {
+      "commandName": "Project",
+      "commandLineArgs": "sizor rock paper"
+    }
+  }
+}
